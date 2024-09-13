@@ -50,5 +50,5 @@ Check out Walt's [other courses](https://www.linkedin.com/learning/instructors/w
 ![Ten Tips for the C# Developer][lil-thumbnail-url] 
 
 
-[lil-course-url]: https://www.linkedin.com/learning/ten-tips-for-the-c-sharp-developer
+[lil-course-url]: https://www.linkedin.com/learning/ten-tips-for-the-c-sharp-developer-24398014
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2863044/2863044-1601574454812-16x9.jpg
